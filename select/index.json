@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "CANDY UNIVERSE",
+  "base_artist": "八宮めぐる (CV.峯田茉優)、三峰結華 (CV.希水しお)、小宮果穂 (CV.河野ひより)、西城樹里 (CV.永井真里子)、大崎甘奈 (CV.黒木ほの香)",
+  "createdAt": "2026-01-12T11:58:24.401017Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "CANDY UNIVERSE",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/01_CANDY_UNIVERSE_シャイニーカラーズ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CANDY UNIVERSE",
+      "artist": "八宮めぐる(峯田茉優),三峰結華(希水しお),小宮果穂(河野ひより),西城樹里(永井真里子),大崎甘奈(黒木ほの香)",
+      "has_synced": false,
+      "path": "select/pl_01_CANDY_UNIVERSE_八宮めぐる(峯田茉優),三峰結華(希水しお),小宮果穂(河野ひより),西城樹里(永井真里子),大崎甘奈(黒木ほの香).txt"
+    }
+  ]
+}
